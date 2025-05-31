@@ -1,1 +1,0 @@
-// Gửi mail dùng nodemailer
